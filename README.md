@@ -1,4 +1,3 @@
-![logo](https://github.com/Syborg2/Syborg2/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Bhattacharjee</h1>
 <h3 align="center">A passionate Web and Python developer from India</h3>
 
