@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syborg2&label=Profile%20views&color=0e75b6&style=flat" alt="syborg2" /> </p>
 
-- 🌱 I'm currently learning **web development and many types of framework like- Django,PHP, MERN stack etc.**
+- 🌱 I'm currently learning **web development and many types of framework like- Django,PHP, Laravel etc.**
 
 - 💬 Ask me about **my on going courses and projects.**
 
